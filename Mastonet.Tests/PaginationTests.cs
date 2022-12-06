@@ -10,8 +10,8 @@ namespace Mastonet.Tests
 {
 	public class PaginationTests
 	{
-		private string token = "LJLPAVMmb6crciAp7Lw6gmeiOXDLzdI8dUSXnjtJGUA";
-        private string instance = "mastodon.social";
+		private string token = "TODO"; // TODO - set your token
+        private string instance = "TODO"; // TODO - set your instance domain
         private int MAX_PAGES = 4;
 
         [Fact]
